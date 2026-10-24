@@ -80,3 +80,6 @@ dist/
 
 models/
 *.gguf
+# Temporary history and backup files
+.Rhistory
+*_backup.py
